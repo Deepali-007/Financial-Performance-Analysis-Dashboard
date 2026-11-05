@@ -51,4 +51,8 @@ Financial Data Analysis | Microsoft Excel | Power BI | KPI Analysis | Budget vs.
 ## Project Outcome
 Developed a financial performance dashboard that presents revenue, profitability, and budget variance information in a structured visual format, making monthly financial performance easier to review and interpret.
 
+## Dashboard Preview
+
+![Financial Performance Analysis Dashboard](Dashboard_Screenshot.png)
+
 
