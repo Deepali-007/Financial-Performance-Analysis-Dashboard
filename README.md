@@ -1,34 +1,54 @@
-
 # Financial Performance Analysis & Dashboard
 
 ## Project Overview
-This project analyzes monthly financial performance using Microsoft Excel and Power BI. It focuses on revenue, operating profit, budget comparisons, and revenue variance.
+This project focuses on analyzing monthly financial performance using Microsoft Excel and Power BI. It examines key financial indicators to understand revenue trends, operating profitability, and performance against budget.
 
-## Tools Used
-- Microsoft Excel
-- Microsoft Power BI
+The project demonstrates how spreadsheet-based financial analysis and interactive dashboards can help organize financial information and present meaningful insights in a clear, accessible format.
 
-## Key Analysis
-- Monthly revenue analysis
-- Actual Revenue vs Budget comparison
-- Operating profit analysis
-- Revenue variance analysis
-- KPI-based financial performance monitoring
+## Objectives
+- Analyze monthly revenue and operating profit.
+- Compare actual revenue with budgeted revenue.
+- Identify monthly revenue variances and performance trends.
+- Calculate key financial performance indicators.
+- Present financial information through an interactive dashboard.
+
+## Tools & Technologies
+- **Microsoft Excel**: Data preparation, financial calculations, analysis, and data organization.
+- **Microsoft Power BI**: Data visualization, KPI cards, charts, and dashboard development.
+
+## Key Analysis Performed
+- Examined monthly revenue performance across the reporting period.
+- Analyzed operating profit and operating profit margin.
+- Compared actual revenue against budgeted revenue.
+- Evaluated positive and negative revenue variances.
+- Used financial KPIs to summarize overall performance.
+
+## Dashboard Features
+The Power BI dashboard includes:
+- Total Revenue KPI
+- Operating Profit KPI
+- Operating Profit Margin KPI
+- Revenue Variance KPI
+- Monthly Revenue Trend
+- Actual Revenue vs. Budget Comparison
+- Monthly Operating Profit Analysis
+- Monthly Revenue Variance Analysis
+
+## Key Financial Highlights
+- **Total Revenue:** ₹58,31,000
+- **Operating Profit:** ₹7,27,920
+- **Revenue Variance:** ₹31,000
+- **Operating Profit Margin:** 12.48%
 
 ## Project Files
-- Excel workbook: Original data, calculations and financial analysis.
-- Power BI report: Interactive financial performance dashboard.
-- Dashboard screenshot: Visual preview of the completed dashboard.
+- `Excel_Workbook.xlsx` – Excel workbook containing the financial data and analysis.
+- `PowerBI_Dashboard.pbix` – Power BI report containing the interactive dashboard.
+- `Dashboard_Screenshot.png` – Preview of the completed dashboard.
 
-## Key Findings
-- Total Revenue: ₹58,31,000
-- Total Operating Profit: ₹7,27,920
-- Total Revenue Variance: ₹31,000
-- Operating Profit Margin: 12.48%
+## Skills Demonstrated
+Financial Data Analysis | Microsoft Excel | Power BI | KPI Analysis | Budget vs. Actual Analysis | Data Visualization | Financial Reporting
 
-## Dashboard Preview
-See the Dashboard_Screenshot.png file in this repository.
+## Project Outcome
+Developed a financial performance dashboard that presents revenue, profitability, and budget variance information in a structured visual format, making monthly financial performance easier to review and interpret.
 
-## Disclaimer
-This is an independent portfolio project using sample financial data for educational and analytical purposes.
 
